@@ -25,3 +25,16 @@ h1 {
     padding: 5px;
     color: rgba(61, 61, 126, 0.9);
 }
+
+#p2 {
+    background-color: rgb(189, 255, 230);
+    width: 50%;
+    padding: 5px;
+}
+
+#p3 {
+    background-color: rgb(249, 208, 248);
+    width: 50%;
+    padding: 5px;
+}
+
